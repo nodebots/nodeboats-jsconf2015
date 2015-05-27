@@ -9,7 +9,7 @@ There will be two different boat models that each team can make as part of the N
 Each boat kit will include the following materials. Make sure you let us know if any components are missing! (Please also keep in mind that we do need the parts back at the end of the day!)
 
 #### Boat Kits
-- Spark Core maker's kit
+- Particle Core (or Spark Core) maker's kit
 - Plastic food container with lid
 - Breadboard
 - 0.1 uF ceramic capacitor (these are really small, so come get yours from us!)
@@ -32,3 +32,16 @@ Each boat kit will include the following materials. Make sure you let us know if
 - A drill
 - Box cutters
 - Googly eyes
+
+### Resources for Building Your Boat!
+
+You may need some help while setting up your NodeBoat. Here are some tips and tricks so you can learn from our experiences:
+- [Setting Up Your Particle Core](particle.md)
+- [Building a Motor-Propelled Boat](motorboat.md)
+- [Building a PaddleBoat](paddleboat.md)
+
+First Time Using Johnny-Five? Don't hesitate to ask us for help! That's why we're here. Here are some intro materials and parts of the docs that will be particularly helpful while building your boats:
+- [The Johnny-Five Hello World (Make sure you select the Spark Core example.)](http://johnny-five.io/#hello-world!)
+- [Standard Servos (These are the smaller servos in your kit.)](http://johnny-five.io/examples/servo)
+- [Continuous Rotation Servos](http://johnny-five.io/examples/servo-continuous)
+- [Motor Shield (Don't worry about the wiring. You should follow the diagram included in the "Building a Motor-Propelled Boat" section for how to connect the Sparkfun Motor Driver.)](http://johnny-five.io/examples/motor-3-pin)
