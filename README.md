@@ -17,7 +17,7 @@ Each boat kit will include the following materials. Make sure you let us know if
 - Batteries (come get these from us too)
 - Tamiya motor pod (needed for motor boat)
 - Sparkfun motor driver (needed for motor boat)
-- Breakaway headers (needed for motor boat - come get yours from us!)
+- Breakaway headers (needed for motor boat - come get yours from us or use the ones in the Particle kit!)
 - Micro servo (needed for motor boat)
 - 2 Continuous rotation servos (needed for paddleboat)
 
