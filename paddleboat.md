@@ -1,10 +1,14 @@
 # Tips and Tricks for Building your Paddle Boat!
 
+## Wiring Diagram
+
+![Wiring Diagram](paddle_boat_wiring_diagram.png)
+
+## Considerations when choosing a hull configuration
+
 The hull is the watertight body of your boat that keeps it from sinking and can be broken into two configurations: monohull and multihull. A monohull has a single body, and is the most common type of hull. Multihulls, most of which are called catamarans (two hulls) or trimarans (three hulls), use more than one hull with a structure that holds them together.
 
 There are many pros and cons to each type of hull, but the tl;dr is that monohulls are easier to build, while multihulls are more stable on the water and less likely to capsize.
-
-## Considerations when choosing a hull configuration
 
 Monohull
 - Spacing between paddles is determined by the width of the hull
