@@ -44,4 +44,4 @@ npm install --save johnny-five
 npm install --save spark-io
 ```
 
-You're now all set to head over to the Johnny-Five docs and try its "Hello World" - [blinking an led](http://johnny-five.io/#hello-world!)!
+You're now all set to head over to the Spark-IO docs and try its "Hello World" - [blinking an led](https://github.com/rwaldron/spark-io#johnny-five-io-plugin)! Then move on to the [Johnny-Five](http://johnny-five.io) docs and have fun building your boat!
