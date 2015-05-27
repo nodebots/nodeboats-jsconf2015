@@ -45,3 +45,4 @@ First Time Using Johnny-Five? Don't hesitate to ask us for help! That's why we'r
 - [Standard Servos](http://johnny-five.io/examples/servo) (These are the smaller servos in your kit.)
 - [Continuous Rotation Servos](http://johnny-five.io/examples/servo-continuous)
 - [Motor Shield](http://johnny-five.io/examples/motor-3-pin) (Don't worry about the wiring. You should follow the diagram included in the "Building a Motor-Propelled Boat" section for how to connect the Sparkfun Motor Driver.)
+- [Heya](heya.md) (A library wrapper around Johnny-Five for quickly and easily making driving robots)
