@@ -41,7 +41,7 @@ You may need some help while setting up your NodeBoat. Here are some tips and tr
 - [Building a PaddleBoat](paddleboat.md)
 
 First Time Using Johnny-Five? Don't hesitate to ask us for help! That's why we're here. Here are some intro materials and parts of the docs that will be particularly helpful while building your boats:
-- [The Johnny-Five Hello World (Make sure you select the Spark Core example.)](http://johnny-five.io/#hello-world!)
-- [Standard Servos (These are the smaller servos in your kit.)](http://johnny-five.io/examples/servo)
+- [The Johnny-Five Hello World](http://johnny-five.io/#hello-world!) (Make sure you select the Spark Core example.)
+- [Standard Servos](http://johnny-five.io/examples/servo) (These are the smaller servos in your kit.)
 - [Continuous Rotation Servos](http://johnny-five.io/examples/servo-continuous)
-- [Motor Shield (Don't worry about the wiring. You should follow the diagram included in the "Building a Motor-Propelled Boat" section for how to connect the Sparkfun Motor Driver.)](http://johnny-five.io/examples/motor-3-pin)
+- [Motor Shield](http://johnny-five.io/examples/motor-3-pin) (Don't worry about the wiring. You should follow the diagram included in the "Building a Motor-Propelled Boat" section for how to connect the Sparkfun Motor Driver.)
