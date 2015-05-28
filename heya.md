@@ -1,6 +1,6 @@
 # Heya
 
-Heya is a library for quickly building driving robots, including paddle driven NodeBoats. 
+[Heya](https://github.com/bryan-m-hughes/heya) is a library for quickly building driving robots, including paddle driven NodeBoats. 
 
 The following code is all you need to get a basic paddle boat up and running, using a web interface for controlling your NodeBoat with the arrow keys or WASD keys:
 
