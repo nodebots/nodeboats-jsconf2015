@@ -30,7 +30,7 @@ When working with Johnny-Five, instead of using the Spark Cloud you'll be commun
 
 This means we need to flash the spark with the [Voodoospark firmware](https://github.com/voodootikigod/voodoospark). The spark-cli actually comes bundled with Voodoospark, so doing this is pretty simple. Just type:
 ```bash
-spark flash < enter your core id here > voodoo
+spark flash <enter your core id here> voodoo
 ```
 
 Your Core will flash a bunch of colors to indicate that the firmware is updating, and when it's settled back into the breathing cyan pattern, the flash has been complete!
@@ -39,7 +39,8 @@ Your Core will flash a bunch of colors to indicate that the firmware is updating
 
 Now you just need to install [Johnny-Five]() and it's [Spark-IO](https://github.com/rwaldron/spark-io) plugin, and you're ready to start coding!
 
-```javascript
+```bash
+# cd into your project directory first! 
 npm install --save johnny-five
 npm install --save spark-io
 ```
