@@ -49,4 +49,4 @@ npm install --save johnny-five
 npm install --save spark-io
 ```
 
-You're now all set to head over to the Spark-IO docs and try its "Hello World" - [blinking an led](https://github.com/rwaldron/spark-io#johnny-five-io-plugin)! Where it asks for the Access Token and Core ID, use the ones you took note of before in your Spark Setup! Then move on to the [Johnny-Five](http://johnny-five.io) docs and have fun building your boat!
+You're now all set to head over to the Spark-IO docs and try its "Hello World" - [blinking an led](https://github.com/rwaldron/spark-io#getting-started)! Where it asks for the Access Token and Core ID, use the ones you took note of before in your Spark Setup! Then move on to the [Johnny-Five](http://johnny-five.io) docs and have fun building your boat!
