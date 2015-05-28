@@ -4,11 +4,11 @@ NodeBoats will use the [Particle Core](https://www.particle.io) (formerly known 
 
 ### Setting Up Your Particle
 
-Before you set up your Particle, make sure you have version 0.10.x of [Node JS](https://nodejs.org) installed on your computer! If you use a different version or (io.js)[https://iojs.org/en/index.html], you'll run into compatibility issues and it'll be a bad time. To check your version:
+Before you set up your Particle, make sure you have version 0.10.x of [Node JS](https://nodejs.org) installed on your computer! If you use a different version or [io.js](https://iojs.org/en/index.html), you'll run into compatibility issues and it'll be a bad time. To check your version:
 ```bash
 node -v
 ```
-You might find (n)[https://github.com/tj/n] useful for installing and switching to Node 0.10.x if you have an alternate version installed.
+You might find [n](https://github.com/tj/n) useful for installing and switching to Node 0.10.x if you have an alternate version installed.
 
 #### Spark CLI
 
