@@ -46,4 +46,4 @@ First Time Using Johnny-Five? Don't hesitate to ask us for help! That's why we'r
 - [Continuous Rotation Servos](http://johnny-five.io/examples/servo-continuous)
 - [Motor Driver](http://johnny-five.io/examples/motor-3-pin) (Don't worry about the wiring. You should follow the diagram included in the "Building a Motor-Propelled Boat" section for how to connect the Sparkfun Motor Driver.)
 - [Heya](heya.md) (A library wrapper around Johnny-Five for quickly and easily making driving robots)
-- [Spark Error Codes](docs.particle.io/core/api/)(If you get a "Unable to connect to spark cloud" error, note the error number and compare it with the list of error codes in the "Errors" section)
+- [Spark Error Codes](http://docs.particle.io/core/api/) (If you get a "Unable to connect to spark cloud" error, note the error number and compare it with the list of error codes in the "Errors" section)
