@@ -12,6 +12,8 @@ The hull is the watertight body of your boat that keeps it from sinking and can 
 
 There are many pros and cons to each type of hull, but the tl;dr is that monohulls are easier to build, while multihulls are more stable on the water and less likely to capsize.
 
+![hulls](images/monohull.svg)
+
 Monohull
 - Spacing between paddles is determined by the width of the hull
 - Servos are mounted inside the hull body
