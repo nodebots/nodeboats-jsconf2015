@@ -20,7 +20,7 @@ Once spark-cli is installed, you should plug in your Particle via USB. The light
 spark setup
 ```
 
-Spark-cli will ask you to log in to your account, or create an account if you do not yet have one. Follow the instructions to set up your core. Make sure to take note of your Access Token and Core ID. You'll need these later.After you enter wifi credentials as part of your setup process, your Particle should restart. It will quickly blink green to indicate that it is connecting to the wifi. Once it connects it should begin breathing cyan. Press `Enter` to claim your core. Once it flashes rainbows your Core is claimed! Press `Enter` again. You can now give your Core a convenient nickname to substitue for the Core ID if you wish.
+Spark-cli will ask you to log in to your account, or create an account if you do not yet have one. Follow the instructions to set up your core. Make sure to take note of your Access Token and Core ID. You'll need these later in your code! After you enter wifi credentials as part of your setup process, your Particle should restart. It will quickly blink green to indicate that it is connecting to the wifi. Once it connects it should begin breathing cyan. Press `Enter` to claim your core. Once it flashes rainbows your Core is claimed! Press `Enter` again. You can now give your Core a convenient nickname to substitue for the Core ID if you wish.
 
 If, during this process, your Core starts blinking other colors, you can find out what they mean [here](http://docs.particle.io/core/#leds).
 
@@ -45,4 +45,4 @@ npm install --save johnny-five
 npm install --save spark-io
 ```
 
-You're now all set to head over to the Spark-IO docs and try its "Hello World" - [blinking an led](https://github.com/rwaldron/spark-io#johnny-five-io-plugin)! Then move on to the [Johnny-Five](http://johnny-five.io) docs and have fun building your boat!
+You're now all set to head over to the Spark-IO docs and try its "Hello World" - [blinking an led](https://github.com/rwaldron/spark-io#johnny-five-io-plugin)! Where it asks for the Access Token and Core ID, use the ones you took note of before in your Spark Setup! Then move on to the [Johnny-Five](http://johnny-five.io) docs and have fun building your boat!
