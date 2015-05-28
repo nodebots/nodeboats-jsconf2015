@@ -4,7 +4,11 @@ NodeBoats will use the [Particle Core](https://www.particle.io) (formerly known 
 
 ### Setting Up Your Particle
 
-Before you set up your Particle, make sure you have version 0.10 of [Node JS](https://nodejs.org) installed on your computer! If you use a different version or IO, you'll run into compatibility issues and it'll be a bad time.
+Before you set up your Particle, make sure you have version 0.10.x of [Node JS](https://nodejs.org) installed on your computer! If you use a different version or [io.js](https://iojs.org/en/index.html), you'll run into compatibility issues and it'll be a bad time. To check your version:
+```bash
+node -v
+```
+You might find [n](https://github.com/tj/n) useful for installing and switching to Node 0.10.x if you have an alternate version installed.
 
 #### Spark CLI
 
@@ -37,7 +41,7 @@ Your Core will flash a bunch of colors to indicate that the firmware is updating
 
 #### Moving on to Code!
 
-Now you just need to install [Johnny-Five]() and it's [Spark-IO](https://github.com/rwaldron/spark-io) plugin, and you're ready to start coding!
+Now you just need to install [Johnny-Five](https://github.com/rwaldron/johnny-five) and it's [Spark-IO](https://github.com/rwaldron/spark-io) plugin, and you're ready to start coding!
 
 ```bash
 # cd into your project directory first! 
