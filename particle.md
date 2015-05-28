@@ -41,7 +41,7 @@ Your Core will flash a bunch of colors to indicate that the firmware is updating
 
 #### Moving on to Code!
 
-Now you just need to install [Johnny-Five]() and it's [Spark-IO](https://github.com/rwaldron/spark-io) plugin, and you're ready to start coding!
+Now you just need to install [Johnny-Five](https://github.com/rwaldron/johnny-five) and it's [Spark-IO](https://github.com/rwaldron/spark-io) plugin, and you're ready to start coding!
 
 ```bash
 # cd into your project directory first! 
