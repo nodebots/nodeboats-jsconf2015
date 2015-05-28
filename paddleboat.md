@@ -6,6 +6,13 @@ The Paddle Boat design is a boat that has two servos to propel and steer the boa
 
 ![Wiring Diagram](images/paddle_boat_wiring_diagram.png)
 
+## Calibrate the Continuous Servos.
+
+*Missing or skipping this step is a direct path to failure.*
+
+When a continuous servo’s idle pulse is not calibrated to the available PWM range of the controller board, its behavior will be erratic and uncontrollable. Calibration is simple: send the known idle pulse to the servo (i.e. call servo.stop() or servo.to(90)) and adjust the built-in potentiometer (small screw hole on the back) until the servo horn comes to a complete stop. If the servo is not moving when the idle pulse is written to the servo, then it’s safe to assume that the servo is already calibrated.
+
+
 ## Considerations when choosing a hull configuration
 
 The hull is the watertight body of your boat that keeps it from sinking and can be broken into two configurations: monohull and multihull. A monohull has a single body, and is the most common type of hull. Multihulls, most of which are called catamarans (two hulls) or trimarans (three hulls), use more than one hull with a structure that holds them together.
