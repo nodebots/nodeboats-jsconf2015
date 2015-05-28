@@ -1,8 +1,10 @@
 # Tips and Tricks for Building your Paddle Boat!
 
+The Paddle Boat design is a boat that has two servos to propel and steer the boat, acting almost as wheels. Paddles can be added on to the servos through the use of 3D printed objects, popsicle sticks, and whatever else is deemed useful. Here are some tips and tricks (and wiring diagrams) to help you make your Paddle Boat a success!
+
 ## Wiring Diagram
 
-![Wiring Diagram](paddle_boat_wiring_diagram.png)
+![Wiring Diagram](images/paddle_boat_wiring_diagram.png)
 
 ## Considerations when choosing a hull configuration
 
@@ -43,7 +45,7 @@ Miscellaneous
 
 - Duct tape is pretty much waterproof as long as it is laid out evenly.
     - Creases in the tape can allow water on the underside of the tape, causing it to leak and/or come off
-- If the paddles are made out of popsicle sticks, make sure to coat them because the water will quickly weaken them
+- If the paddles are made out of popsicle sticks, you may want to consider coating them so they don't get too waterlogged too quickly.
 - Make sure the paddles are as close as possible to being identical. Differences in length/width of the individual blades can cause the boat to not move in a straight line
 - If you are using the food containers for your hull, make sure that the paddles clear the lip of the container
 - Hot glue is designed to melt plastic (of course), which includes the food containers. Try adding as little glue as possible to the food containers, and add it in batches/layers to prevent the container from deforming
